@@ -1,5 +1,7 @@
 # Giphy
 
+![frontpage image](Giphy.PNG)
+
 ## Giphy
 
 https://hgmallar.github.io/Giphy/
